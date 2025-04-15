@@ -1,0 +1,21 @@
+
+Assets = Liabilities + Equity
+
+Vehicle is something the business owns and has measurable value as an "Asset".
+
+A line of credit at a store when taking as $500 is money owning on credit as a liability.
+
+If adding increased liabilities column by $600.  To maintain accounting equation to be in balance would mean to add also $600 to the assets column as well.
+
+Double-entry accounting means an entry is made to both the Debit and Credit columns.
+
+$100 payment to a tractor store.  Recorded as a credit in decreasing an asset account.  Paying in cash.
+
+Two different accounts are the balance column increasing or decreasing.  With account categories such as Assets, Liabilities and Equity.   Some accounts increase with debt and some increase in credit.
+
+
+Bookkeeping Basics, Assets in Accounting, Liabilities and Equity in Accounting, and Financial Statement Analysis. 
+ 
+
+
+
